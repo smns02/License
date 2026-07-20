@@ -1,0 +1,10 @@
+{
+  "SPACEX-A1B2C3D4E5F6": {
+    "key": "YOUR_SECRET_KEY_123",
+    "expire": "2026-12-31 23:59:59"
+  },
+  "SPACEX-9876543210AB": {
+    "key": "VIP_KEY_456",
+    "expire": "2026-08-15 12:00:00"
+  }
+}
